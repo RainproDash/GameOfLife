@@ -1,0 +1,5 @@
+*.a
+*.o
+*.sh
+*.txt
+gameoflife
